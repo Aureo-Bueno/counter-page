@@ -78,7 +78,7 @@ yarn dev
 
 A aplicação abrirá automaticamente em:
 ```
-http://localhost:5173
+http://localhost:8080
 ```
 
 ### 4. (Opcional) Build para produção
