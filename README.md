@@ -60,8 +60,8 @@ yarn --version   # 4.x.x
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-seu-repositorio>
-cd contador-redux-styled
+git clone https://github.com/Aureo-Bueno/counter-page
+cd counter-page
 ```
 
 ### 2. Instale as dependências
